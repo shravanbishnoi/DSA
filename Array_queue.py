@@ -1,5 +1,5 @@
 '''
-This is a module containing Queue class
+This is a script containing Queue class
 In this module a array based queue is implemented
 
 Author: Shravan
