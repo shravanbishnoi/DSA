@@ -1,11 +1,12 @@
 """
-This is a module containing Stack class
+This is a script containing Stack class
 In this module a Array based stack is implemented
 
 Author: Shravan
 Date: 02-09-2023
 """
 from stack_exception import Empty
+
 
 ####---------------------------Array based stack implementation-------------------####
 class ArrayStack(object):
@@ -46,6 +47,7 @@ class ArrayStack(object):
 		if self.is_empty():
 			raise Empty("Stack is empty")
 		return self._data.pop()
+
 
 #-------------------Testing----------------------#
 
