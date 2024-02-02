@@ -243,7 +243,9 @@ class LinkedBinaryTree(BinaryTree):
 
     ##---------------------------------- Node Class ------------------------##
     class _Node(object):
-        """Represent a Node entity"""
+        """
+        Represent a Node entity
+        """
 
         __slots__ = "_element", "_parent", "_left", "_right"
         def __init__(self, element, parent=None, left=None, right=None):
@@ -402,6 +404,7 @@ class LinkedBinaryTree(BinaryTree):
             node._right = t2._root
             t2._root = None                             # set t2 instance to empty
             t2._size = 0                                # size becomes zero for t2
+
 
 
 ###-----------------------Testing-----------------------------####
