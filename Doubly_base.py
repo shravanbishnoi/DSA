@@ -57,7 +57,7 @@ class _DoublyLinkedBase(object):
         self._size -= 1
         return node_value
     
-
+###------------- Practice Problems --------------------###
     # ### Practice Problem Q.3 Solution
     # ### Q.3 Write a program to delete a node in DLL (Doubly Linked List) containing the value entered by the user
     # def delete_node(self, value):
