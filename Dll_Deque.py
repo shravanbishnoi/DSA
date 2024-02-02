@@ -1,3 +1,10 @@
+"""
+This file contain a Doubly Linked List Implementation
+
+Author: Shravan
+Date: 12-10-2023
+
+"""
 from Doubly_base import _DoublyLinkedBase
 from queue_exception import Empty
 
