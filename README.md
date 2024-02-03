@@ -8,8 +8,8 @@ Explore my DSA course repository! Dive into assignments reinforcing theory and p
 
 This repository is organized to showcase my work throughout the course, and it will be regularly updated with new assignments and projects.
 
-## Course Advisor: Dr. Sonika Thakral (Prof. at DU)
-## Course Advisor for Advance DSA: Mr. Prosenjit Gupta
+### Course Advisor: Dr. Sonika Thakral (Prof. at DU)
+### Course Advisor for Advance DSA: Mr. Prosenjit Gupta
 
 ## Table of Contents
 - In this course we will learn about different types of data stuctures and their specifications
