@@ -13,9 +13,18 @@ This repository is organized to showcase my work throughout the course, and it w
 
 ## Table of Contents
 - In this course we will learn about different types of data stuctures and their specifications
-  
-## Assignments:
-    - 
+    - DSA
+        - Algorithm analysis
+        - Recursion
+        - Array Based Sequences
+        - Stacks, Queues and Deques
+        - Linked Lists
+        - Trees
+        - Priority Queues
+        - Maps and Hash Tables
+        - Search Tree
+        - Sorting and Selection
+
 ## About the Course
 
 This course covers various aspects of Data structure in CS and related topics. It includes theoretical concepts as well as hands-on assignments and projects to deepen understanding and practical skills.
