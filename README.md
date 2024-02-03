@@ -21,3 +21,5 @@ This repository is organized to showcase my work throughout the course, and it w
 This course covers various aspects of Data structure in CS and related topics. It includes theoretical concepts as well as hands-on assignments and projects to deepen understanding and practical skills.
 
 ## Projects
+  - Simulation project using appropriate Data structures
+  - Maximal Points in 2D
