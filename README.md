@@ -4,7 +4,7 @@ This GitHub repository is dedicated to storing and managing all the Data Structu
 
 I cordially invite you to explore the codebase and give your valuable feedback and suggestions.
 Explore my DSA course repository! Dive into assignments reinforcing theory and projects applying practical skills. Contribute and collaborate to enhance this learning hub. 
-🚀 #DSA #Algorithms
+🚀 #DSA #Algorithms #ProblemSolving
 
 This repository is organized to showcase my work throughout the course, and it will be regularly updated with new assignments and projects.
 
