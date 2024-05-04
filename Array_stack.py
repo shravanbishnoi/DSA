@@ -50,7 +50,6 @@ class ArrayStack(object):
 
 
 #-------------------Testing----------------------#
-
 if __name__ == '__main__':
 	print("Testing started: ")
 	obj = ArrayStack()
